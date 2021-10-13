@@ -1,7 +1,7 @@
 # Escape the stone
 
 ## Goal
-the goal of this project is to focuse on syntax analysis
+the goal of this project is to focus on syntax analysis
 
 This is my final project (Project 9) for the nand2tetris course! It's a Escape the stone game written in the Jack language.
 
